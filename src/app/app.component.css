@@ -1,0 +1,30 @@
+/* convert.component.css */
+.convert-container {
+    max-width: 500px;
+    margin: 50px auto;
+    text-align: center;
+  }
+  
+  mat-form-field {
+    width: 100%;
+    margin: 10px 0;
+  }
+  
+  button {
+    margin-top: 20px;
+  }
+
+  .video-info {
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    border: 1px solid grey;
+  }
+
+  .video-info img {
+    width: 30%;
+  }
+
+  .video-info h6 {
+    width: 70%;
+  }
